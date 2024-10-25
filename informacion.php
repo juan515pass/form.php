@@ -1,6 +1,6 @@
 <?php
 $Identificacion=$_post ['Identificacion'];
-$NomApellido=$_post ['NomApellidos'];
+$NomApellidos=$_post ['NomApellidos'];
 $Cargo=$_post ['Cargo'];
 $Salario=$_post ['Salario'];
 echo " la identificacion del Empleado es: ".Identificacion;
