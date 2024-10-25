@@ -8,6 +8,7 @@
   <table class="tabla" border="1">
     <tr>
 <td>Identificacion_empleado</td>
+      <td><input type="text" name="Identificacion"</td>
 </td>
     <tr>
     <td>Nombres Apellidos</td>
