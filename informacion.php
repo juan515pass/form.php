@@ -1,8 +1,8 @@
 <?php
-$Identificacion=$_post ['Identificacion'];
-$NomApellidos=$_post ['NomApellidos'];
-$Cargo=$_post ['Cargo'];
-$Salario=$_post ['Salario'];
+$Identificacion=$_POST ['Identificacion'];
+$NomApellidos=$_POST ['NomApellidos'];
+$Cargo=$_POST ['Cargo'];
+$Salario=$_POST ['Salario'];
 echo " la identificacion del Empleado es: ".$Identificacion;
 echo " Los nombres y apellidos del empleado son: ".$NomApellidos;
 echo " El cargo del empleado es: ".$Cargo;
